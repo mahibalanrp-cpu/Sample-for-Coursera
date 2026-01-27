@@ -1,2 +1,5 @@
-# Sample-for-Coursera
-C++ program
+#include<iostream>
+int main()
+{
+cout<<"Hello";
+}
